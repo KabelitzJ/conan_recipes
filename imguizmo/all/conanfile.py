@@ -9,6 +9,7 @@ required_conan_version = ">=1.53.0"
 
 class ImGuizmoConan(ConanFile):
   name = "imguizmo"
+  version = "1.83-docking"
   description = "Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui"
   license = "MIT"
   url = "https://github.com/KabelitzJ/conan_recipes"
